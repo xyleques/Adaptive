@@ -1,7 +1,0 @@
-@relation mouseOutput
-
-@attribute clickDuration numeric
-@attribute 'able vs not' {ABLE, NOT}
-
-@data
-880,ABLE
